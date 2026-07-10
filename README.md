@@ -291,3 +291,4 @@ Computer Science and Engineering Student
 Data Analytics | Full Stack Java | Power BI | SQL | Python
 
 GitHub: https://github.com/SriHarish2006
+LinkedIn: https://www.linkedin.com/in/sri-harish-03219432b/
