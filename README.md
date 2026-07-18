@@ -66,6 +66,23 @@ The project aims to provide an efficient, secure, and scalable educational ecosy
 
 ## ⚙️ System Workflow
 
+📸 Application Screenshots
+Login Page
+
+The Login page allows registered users to securely access the application using their email and password credentials.
+
+<p align="center"> <img src="output/Login%20Page.png" alt="Login Page" width="800"> </p>
+Signup Page
+
+The Signup page enables new users to create an account by providing their personal information, including name, email, qualification, experience, and password.
+
+<p align="center"> <img src="output/Signup%20Page.png" alt="Signup Page" width="800"> </p>
+Dashboard / List Page
+
+After successful authentication, users are redirected to the List Page, where they can view and manage the available records through a clean and user-friendly interface.
+
+<p align="center"> <img src="output/List%20Page.png" alt="List Page" width="800"> </p>
+
 ### Step 1 – User Registration
 
 New users register by selecting their role:
